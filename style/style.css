@@ -69,6 +69,10 @@
     margin-bottom: 32px;
     cursor: pointer;
 }
+.btn:hover{
+    color: #fff;
+    background-color: rgb(98, 114, 87);
+}
 #card-box{
     width: 791px;
     margin: 100px auto;
